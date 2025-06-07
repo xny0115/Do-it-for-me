@@ -1,0 +1,30 @@
+[
+  {
+    "click_x": 1158,
+    "click_y": 934,
+    "click_count": 2,
+    "message": "1번셋팅 테스트입니다. 답변은 생략. 프로그램이 보내는 메세지 입니다.",
+    "enter_key": true
+  },
+  {
+    "click_x": 1369,
+    "click_y": 939,
+    "click_count": 2,
+    "message": "2번셋팅 테스트. 답변은 생략. 프로그램이 보내는 메세지 입니다.",
+    "enter_key": true
+  },
+  {
+    "click_x": 600,
+    "click_y": 400,
+    "click_count": 2,
+    "message": "명령어 2 실행 중입니다.",
+    "enter_key": false
+  },
+  {
+    "click_x": 500,
+    "click_y": 300,
+    "click_count": 1,
+    "message": "안녕하세요, 테스트입니다.",
+    "enter_key": true
+  }
+]
